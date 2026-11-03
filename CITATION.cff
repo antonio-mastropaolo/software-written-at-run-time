@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the preliminary manuscript below when using this work."
+title: "Which Program Did the Agent Run? Supporting examples and pilot artifacts"
+authors:
+  - family-names: Mastropaolo
+    given-names: Antonio
+version: 0.1.0
+date-released: 2026-11-03
+repository-code: "https://github.com/antonio-mastropaolo/software-written-at-run-time"
+url: "https://github.com/antonio-mastropaolo/software-written-at-run-time"
+preferred-citation:
+  type: unpublished
+  title: "Which Program Did the Agent Run? Checking and Keeping the Code AI Agents Write"
+  authors:
+    - family-names: Mastropaolo
+      given-names: Antonio
+  year: 2026
+  month: 11
+  day: 2
+  notes: "Preliminary exploratory manuscript, version of November 2, 2026."
+  url: "https://github.com/antonio-mastropaolo/software-written-at-run-time"

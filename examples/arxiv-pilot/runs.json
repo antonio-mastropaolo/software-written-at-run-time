@@ -1,0 +1,18 @@
+{
+  "agent": {
+    "tool": "Claude in Chrome", "date": "2026-10-13",
+    "runs": [
+      {"run": 1, "steps": ["navigate","click","click","click","type","find","select","click","scroll","click","click","type","click","type","click","click","script!","script","click","script","click","script","click","script","script!","script"], "papers": 91},
+      {"run": 2, "steps": ["navigate","find","form","form","form","form","form","form","form","form","click","click","script!"], "papers": 91},
+      {"run": 3, "steps": ["navigate","script"], "papers": 91}
+    ]
+  },
+  "program": {
+    "file": "arxiv_digest.py", "sha256_16": "808561fa630e01f4",
+    "runs": [
+      {"run": 1, "requests": 1, "seconds": 0.6, "papers": 98, "rows_sha256_12": "b2a7c45d8836"},
+      {"run": 2, "requests": 1, "seconds": 0.1, "papers": 98, "rows_sha256_12": "b2a7c45d8836"},
+      {"run": 3, "requests": 1, "seconds": 0.2, "papers": 98, "rows_sha256_12": "b2a7c45d8836"}
+    ]
+  }
+}
