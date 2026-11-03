@@ -1,6 +1,7 @@
 # Which Program Did the Agent Run?
 
-**Checking and Keeping the Code AI Agents Write**  
+**Checking and Keeping the Code AI Agents Write**
+
 Antonio Mastropaolo
 
 [Read the manuscript](paper/Which_Program_Did_the_Agent_Run.pdf) · [Inspect the arXiv pilot](examples/arxiv-pilot) · [Run the record example](examples/retained-record)
