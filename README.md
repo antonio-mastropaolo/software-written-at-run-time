@@ -68,7 +68,7 @@ Antonio Mastropaolo. 2026. *Which Program Did the Agent Run? Checking and Keepin
 
 ```bibtex
 @unpublished{mastropaolo2026runtime,
-  title  = {Which Program Did the Agent Run? Checking and Keeping the Code AI Agents Write},
+  title  = {Which Program Did the Agent Run? Checking and Keeping the Code {AI} Agents Write},
   author = {Antonio Mastropaolo},
   year   = {2026},
   note   = {Preliminary exploratory manuscript, version of November 2, 2026},
